@@ -13,6 +13,17 @@ public class K1A1 {
     boolean istJavaToll = true;
     boolean istFalsch = false;
     
-    System.out.println(alter)
+    System.out.println(alter);
+    System.out.println(zahl);
+    System.out.println(sparschwein);
+    System.out.println(anzahl);
+    System.out.println(pi);
+    System.out.println(warnung);
+    System.out.println(frage);
+    System.out.println(anfangsBuchstabe);
+    System.out.println(summe);
+    System.out.println(endBuchstabe);
+    System.out.println(istJavaToll);
+    System.out.println(istFalsch);
     }
 }

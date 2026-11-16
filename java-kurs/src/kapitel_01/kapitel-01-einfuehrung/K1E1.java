@@ -1,3 +1,4 @@
+package kapitel_01; 
 /**
  * Erstes Java-Programm.
  * Gibt einen Begrüßungstext auf der Konsole aus.
