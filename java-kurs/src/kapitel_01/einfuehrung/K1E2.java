@@ -1,3 +1,4 @@
+package kapitel_01.einfuehrung;
 /**
  * Speichert einen Text in einer Variable
  * und gibt ihn anschließend aus.

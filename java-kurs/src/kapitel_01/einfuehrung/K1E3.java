@@ -1,3 +1,4 @@
+package kapitel_01.einfuehrung;
 /**
  * Verknüpft mehrere Strings zu einem Ausgabetext.
  */

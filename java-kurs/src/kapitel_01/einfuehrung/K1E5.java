@@ -1,3 +1,4 @@
+package kapitel_01.einfuehrung;
 /**
  * Führt einfache Rechnungen mit Variablen durch.
  */

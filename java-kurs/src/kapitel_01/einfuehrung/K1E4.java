@@ -1,3 +1,4 @@
+package kapitel_01.einfuehrung;
 /**
  * Speichert Zahlen in Variablen
  * und gibt sie auf der Konsole aus.
