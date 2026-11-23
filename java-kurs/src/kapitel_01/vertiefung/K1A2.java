@@ -6,7 +6,7 @@ public class K1A2 {
         double zahl3 = 0.5;
         String text1 = "ergibt";
         
-        System.out.print(zahl1 + zahl2 / zahl3 + text1 + 21.0);
-        System.out.println(zahl1 + zahl2 / zahl3 + text1 + 21.0);
+        System.out.print(zahl1 + " + " + zahl2 + " / " + zahl3 + " + " + text1 + (zahl1 + zahl2 / zahl3));
+        System.out.println(zahl1 + " + " + zahl2 + " / " + zahl3 + " + " + text1 + (zahl1 + zahl2 / zahl3));
     }
 }
